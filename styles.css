@@ -1,0 +1,13 @@
+.boton-flotante {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
